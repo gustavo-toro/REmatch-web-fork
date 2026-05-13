@@ -1,5 +1,4 @@
-import initREmatch from "https://cdn.jsdelivr.net/npm/rematch-javascript-beta@1.3.0-beta.3/lib/index.mjs";
-// import initREmatch from '/index.mjs'
+import initREmatch from "https://cdn.jsdelivr.net/npm/rematch-javascript@1.3.0-beta.0/lib/index.mjs";
 
 // Number of iterations before posting a matches message
 const MIN_MATCHES_PER_POST = 8192;
